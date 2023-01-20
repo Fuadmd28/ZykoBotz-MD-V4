@@ -47,10 +47,10 @@ global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
 global.sgh = 'https://github.com/ZykoBotz-MD' //github
 global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/channel/UCEbvUCpxVGJjUUn-dF8zwuw'
+global.syt = 'https://youtube.com/channel/UCEbvUCpxVGJjUUn-dF8zwuw'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
+global.snh = 'https://youtube.com/channel/UCEbvUCpxVGJjUUn-dF8zwuw'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
