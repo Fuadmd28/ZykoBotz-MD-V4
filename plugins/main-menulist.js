@@ -356,7 +356,7 @@ const sections = [
         {title: `ℹ️ ${pmenus} Info`, rowId: ".? info", description: "Info info BOT"},
         {title: `👩‍💻 ${pmenus} Owner`, rowId: ".? owner", description: "Owner Only!"},
         {title: `❓ ${pmenus} No Category`, rowId: ".? nocategory", description: "Fitur tanpa kategory!"},
-       {title: `⏲️ ${pmenus} SUBSCRIBE YT`, rowId: ".zyko-md", description: "Jangan Lupa Subscribe yt ZykoBotz-MD official 🌝"},
+       {title: `⏲️ ${pmenus} SUBSCRIBE YT`, rowId: ".zyko-md", description: "Jangan Lupa Subscribe"},
         ]
         },
 ]
@@ -388,7 +388,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 │ ▸ 𝗧𝗶𝗺𝗲 : ${time}
 │ ▸ 𝗨𝗽𝘁𝗶𝗺𝗲 : ${mpt}
 └┬━━━━━━━━━━━━━━━━┈─⋆
-  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : YouTube ZykoBotz-MD Official 
+  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : YouTube Fuad Xyro
   │ ▸ 𝗔𝘂𝘁𝗵𝗼𝗿 : ${nameown}
   │ ▸ 𝗢𝘄𝗻𝗲𝗿 : ${nameown}
   └━━━━━━━━━━━━━━━━┈─◂`
