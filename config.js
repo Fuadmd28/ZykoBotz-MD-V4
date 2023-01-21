@@ -55,17 +55,17 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6287761563941', 'Owner Bot', true],
-['6287761563941', 'Owner Bot', true]
+['628816862358', 'Owner Bot', true],
+['628816862358', 'Owner Bot', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6287761563941' //pasang no bot lo 
-global.nomorown = '6287761563941' //pasang no own lo
-global.nomorown1 = '6287761563941'
-global.nomorown2 = '6287761563941'
+global.nomorbot = '628816862358' //pasang no bot lo 
+global.nomorown = '628816862358' //pasang no own lo
+global.nomorown1 = '628816862358'
+global.nomorown2 = '628816862358'
 global.nomorwa = '0'
-global.nameown = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.nameown = 'Bang Pedo'
 global.gcname = '𝘽𝙖𝙣𝙜 𝙁𝘿 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 𝘽𝙖𝙣𝙜 𝙁𝘿'
 global.namabot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
