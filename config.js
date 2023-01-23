@@ -55,43 +55,43 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628816862358', 'Owner Bot', true],
-['628816862358', 'Owner Bot', true]
+['6282110881622', 'Owner Bot', true],
+['6282110881622', 'Owner Bot', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628816862358' //pasang no bot lo 
-global.nomorown = '628816862358' //pasang no own lo
-global.nomorown1 = '628816862358'
-global.nomorown2 = '628816862358'
+global.nomorbot = '6282110881622' //pasang no bot lo 
+global.nomorown = '6282110881622' //pasang no own lo
+global.nomorown1 = '6282110881622'
+global.nomorown2 = '6282110881622'
 global.nomorwa = '0'
-global.nameown = 'Bang Pedo'
-global.gcname = '𝘽𝙖𝙣𝙜 𝙁𝘿 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.namabot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.namebot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.packname2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.nameown = 'Askal ADR'
+global.gcname = 'Askal ADR'
+global.author = 'Created By Askal ADR'
+global.namabot = 'Askal ADR'
+global.namebot = 'Askal ADR'
+global.packname2 = 'Askal ADR'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.nameown2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.nameown1= 'Askal ADR'
+global.nameown2 = 'Askal ADR'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.wm2 = '𝘽𝙖𝙣𝙜 𝙁𝘿 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 Askal ADR'
+global.wm2 = 'Askal ADR '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝘽𝙖𝙣𝙜 𝙁𝘿`
+global.titlebot = `Askal ADR`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.stickauth = `© 𝘽𝙖𝙣𝙜 𝙁𝘿`
+global.stickpack = 'Askal ADR'
+global.stickauth = `© Askal ADR`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
