@@ -44,7 +44,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'http://Instagram.com//askal_ardinata_'
 global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/Bang FD' //github
+global.sgh = 'http://Instagram.com//askal_ardinata_' //github
 global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
 global.sdc = '-' //discord
 global.linkyt = 'https://youtube.com/channel/UCEbvUCpxVGJjUUn-dF8zwuw'
