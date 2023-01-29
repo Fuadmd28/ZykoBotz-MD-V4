@@ -55,43 +55,43 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6282110881622', 'Owner Bot', true],
-['6282110881622', 'Owner Bot', true]
+['628816862358', 'Owner Bot', true],
+['628816862358', 'Owner Bot', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282110881622' //pasang no bot lo 
-global.nomorown = '6282110881622' //pasang no own lo
-global.nomorown1 = '6282110881622'
-global.nomorown2 = '6282110881622'
+global.nomorbot = '628816862358' //pasang no bot lo 
+global.nomorown = '628816862358' //pasang no own lo
+global.nomorown1 = '628816862358'
+global.nomorown2 = '628816862358'
 global.nomorwa = '0'
-global.nameown = 'Askal ADR'
-global.gcname = 'Askal ADR'
-global.author = 'Created By Askal ADR'
-global.namabot = 'Askal ADR'
-global.namebot = 'Askal ADR'
-global.packname2 = 'Askal ADR'
+global.nameown = 'XyorinBOT'
+global.gcname = 'XyorinBOT'
+global.author = 'Created By XyorinBOT'
+global.namabot = 'XyorinBOT'
+global.namebot = 'XyorinBOT'
+global.packname2 = 'XyorinBOT'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'Askal ADR'
-global.nameown2 = 'Askal ADR'
+global.nameown1= 'XyorinBOT'
+global.nameown2 = 'XyorinBOT'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 Askal ADR'
-global.wm2 = 'Askal ADR '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 XyorinBOT'
+global.wm2 = 'XyorinBOT '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `Askal ADR`
+global.titlebot = `XyorinBOT`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'Askal ADR'
-global.stickauth = `© Askal ADR`
+global.stickpack = 'XyorinBOT'
+global.stickauth = `© XyorinBOT`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
