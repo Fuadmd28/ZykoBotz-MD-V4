@@ -90,7 +90,7 @@ global.titlebot = `Sanzu BotXD`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = `Sanzu BotXD`
+global.stickpack = 'Sanzu BotXD'
 global.stickauth = `© Sanzu BotXD`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
