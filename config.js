@@ -55,43 +55,43 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6282145894799', 'Owner Bot', true],
-['6282145894799', 'Owner Bot', true]
+['628995386725', 'Owner Bot', true],
+['628995386725', 'Owner Bot', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282145894799' //pasang no bot lo 
-global.nomorown = '6282145894799' //pasang no own lo
-global.nomorown1 = '6282145894799'
-global.nomorown2 = '6282145894799'
+global.nomorbot = '628995386725' //pasang no bot lo 
+global.nomorown = '628995386725' //pasang no own lo
+global.nomorown1 = '628989513496'
+global.nomorown2 = '628989513496'
 global.nomorwa = '0'
-global.nameown = 'Sanzu BotXD'
-global.gcname = 'Sanzu BotXD'
-global.author = 'Created By Sanzu BotXD'
-global.namabot = 'Sanzu BotXD'
-global.namebot = 'Sanzu BotXD'
-global.packname2 = 'Sanzu BotXD'
+global.nameown = 'Elxbotz'
+global.gcname = 'Elxbotz'
+global.author = 'Created By Elxbotz'
+global.namabot = 'Elxbotz'
+global.namebot = 'Elxbotz'
+global.packname2 = 'Elxbotz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'Sanzu BotXD'
-global.nameown2 = 'Sanzu BotXD'
+global.nameown1= 'Elxbotz'
+global.nameown2 = 'Elxbotz'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 Sanzu BotXD'
-global.wm2 = 'Sanzu BotXD '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 Elxbotz'
+global.wm2 = 'Elxbotz'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `Sanzu BotXD`
+global.titlebot = `Elxbotz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'Sanzu BotXD'
-global.stickauth = `© Sanzu BotXD`
+global.stickpack = 'Elxbotz'
+global.stickauth = `© Elxbotz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
